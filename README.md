@@ -1,4 +1,4 @@
-# AVR_DIP_Programmer | Адаптер для AVR DIP программатора
+# AVR_DIP_Programmer | DIP-адаптер для AVR программатора
 
 
 
